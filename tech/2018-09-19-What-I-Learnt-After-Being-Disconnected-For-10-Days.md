@@ -8,7 +8,7 @@ class: post-template
 author: bauripalash
 --->
 
-#What I Learnt After Being Disconnected For 10 Days
+# What I Learnt After Being Disconnected For 10 Days
 
 I was that kind of guy who uses lots of internet (Actually Too Much..) but unfortunately my phone's charging port got damaged so I had no way left other than sending it to Service Center. The guy there told me it's gonna take a while.
 
