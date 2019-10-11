@@ -15,7 +15,7 @@ author: bauripalash
 {: .crtx}
 
 
-[Programming](https://en.m.wikipedia.org/wiki/Computer_programming) is not all about Mathematics, it's about solving problems we face in our daily life, and doing so we sometimes need Mathematics.
+[Programming](https://en.m.wikipedia.org/wiki/Computer_programming) is not all about Mathematics; it's about solving problems we face in our daily life and doing so, we sometimes need Mathematics.
 
 ![](http://www.progressiveteacher.in/wp-content/uploads/2016/07/002-581x252.jpg)
 [© progressiveteacher.in](http://www.progressiveteacher.in/mathematics-is-fun/)
@@ -25,13 +25,13 @@ So let's do some simple Mathematics with [Python](https://python.org), we've cho
 
 > I recommend reading my previous article about starting with python <https://palash.tk/Simple-Introduction-To-Python-Programming>, read that before going further if you're new to Programming or Python
 
-So let's start..
+So let's start.
 
 ## Start Python
 
-If you've python installed locally run [IDLE](https://en.m.wikipedia.org/wiki/IDLE) otherwise use online interpreter like [Repl.It](https://repl.it/languages/python3)
+If you've python installed locally run [IDLE](https://en.m.wikipedia.org/wiki/IDLE), otherwise use online interpreter like [Repl.It](https://repl.it/languages/python3)
 
-If You've Opened IDLE or Other [REPL](https://en.m.wikipedia.org/wiki/Read–eval–print_loop) you'll see a prompt like this,
+If You've Opened IDLE or Other [REPL](https://en.m.wikipedia.org/wiki/Read–eval–print_loop), you'll see a prompt like this,
 
 `>>>`
 
@@ -40,13 +40,13 @@ If you're using  [Repl.It](https://repl.it/languages/python3), on the right pan 
 `>`
 
 _If nothing wrong happened, goto the next chapter.
-If you find any problems please comment below the article, I'll surely help you_
+If you find any problems, please comment below the article, I'll surely help you_
 
 ## Simple Calculations With Python 👀
 
 If you've successfully completed the previous chapter, now you have a `>>>`  or `>` prompt on your screen.
 
-In the `>>>` type `1+2` and press enter. If you've done everything correctly you'll see a output of `3`
+In the `>>>` type `1+2` and press enter. If you've done everything correctly, you'll see an output of `3.`
 
 Try other,
 
@@ -73,8 +73,8 @@ Try other,
 
 `(123456789 + 987654321) * 8`
 
-Looking for the answer?
+Are you looking for the answer?
 
-I'll not tell you, find Yourself using Python 😉 if you're able to find it , comment your answer below in the comment box 👇. 
+I'll not tell you, find Yourself using Python 😉 if you're able to see it,c omment your answer below in the comment box 👇. 
 
-That's the fun of Programming 😁
+That's the fun of Programming. 😁
