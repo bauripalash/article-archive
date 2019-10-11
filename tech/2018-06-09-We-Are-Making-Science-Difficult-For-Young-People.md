@@ -25,5 +25,5 @@ So my fellow readers, there's a saying,
 
 > A Good Student is Also a Good Teacher
 
-So , if you're from Science Stream, Show Others the fun way to learn Science, Because Fate of Humanity is in your hand now...😊
+So , if you're from Science Stream, Show Others the fun way to learn Science, Because Fate of Humanity is in your hands now...😊
 

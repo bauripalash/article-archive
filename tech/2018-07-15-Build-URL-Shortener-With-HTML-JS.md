@@ -37,9 +37,9 @@ So Let's start adding our three main elements,
 </html>
 ```
 
-As I shown in the above code, I've created a simple HTML file. Inside body tags, there're only three elements an `input`, a `button` and a `script`.
+As I have shown in the above code, I've created a simple HTML file. Inside body tags, there're only three elements an `input`, a `button` and a `script`.
 
-the first element is `input` where we well type/paste our long url, I gave it an id name `urlinput` so it would be easy to access it inside javascript.
+the first element is `input` where we we'll type/paste our long url, I gave it an id name `urlinput` so it would be easy to access it inside javascript.
 
 Next element is a `button`, when we click this button our long url will be shortened as it has `onclick`function which will be executed when we click the button, inside the `shorturl()` function there will be commands necessary to shorten the url.
 
@@ -68,13 +68,13 @@ So Now, let's start writing some javascript . . .
 
 create a javascript file called `main.js` and start following below steps
 
-first, we must keep the copied link a variable
+First, we must keep the copied link a variable
 
 ```javascript
 var endpoint = "https://www.jsonstore.io/8ba4fd855086288421f770482e372ccb5a05d906269a34da5884f39eed0418a1";
 ```
 
-then we need to generate some random string so that we can create a link between the short url and the long url.
+Then we need to generate some random string so that we can create a link between the short url and the long url.
 
 > Assume, we have a random url `abcd`, our simple url shortener is hosted on <https://shortner.com> and we have shortened the url <https://google.com> with that random url, so whenever we go to <https://shortner.com/#abcd> we will be redirected to <https://google.com>
 
@@ -91,7 +91,7 @@ Don't worry, I'll help you understand the above code,
 
 first, we initiated a function called `getrandom` than we initialized a variable called `random_string` and gave it a value.
 
-Math is a built-in javascript object which allows us to perform mathematical tasks on numbers. first we called the `random` function from `Math` , `Math.random()` returns a random number between 0 (inclusive),  and 1  (exclusive)
+Math is a built-in javascript object which allows us to perform mathematical tasks on numbers. First we called the `random` function from `Math` , `Math.random()` returns a random number between 0 (inclusive),  and 1  (exclusive)
 
 > You Can Learn More About `Math` object from [HERE](https://www.w3schools.com/js/js_math.asp) 
 
@@ -101,7 +101,7 @@ Then we use `substring(2,5)` as well to slice the string and maintain the size o
 
 and don't forget to add a `return` statement returning our random string.
 
-> Remember, this is not the only way to generate random strings you can also use the technic mentioned below to achieve the goal
+> Remember, this is not the only way to generate random strings you can also use the technique mentioned below to achieve the goal
 
 ```
 
@@ -251,7 +251,7 @@ You Can Find the full source code of the Project in [GITHUB](https://github.com/
 
 That's it for today, That is my first technical guide article so I apologize for any mistakes, 
 
-if you find any problems, mistakes, let me know the comments below 👇.
+If you find any problems, mistakes, let me know the comments below 👇.
 
 If You Liked My Work, Consider [Donating](https://palash.tk/donate) !
 

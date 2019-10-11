@@ -21,7 +21,7 @@ The language has become available on a very wide range of platforms, from embedd
 
 C is quite [cross-platform](https://en.m.wikipedia.org/wiki/Cross-platform) , so a C Program written in Windows can Run on Linux ( and android ) and vice versa.
 
-> Special Note : You might be wondering why i included [C++](https://en.m.wikipedia.org/wiki/C%2B%2B) where we should be only focusing on C.
+> Special Note : You might be wondering why I included [C++](https://en.m.wikipedia.org/wiki/C%2B%2B) where we should be only focusing on C.
 The Reason is, C++ was actually developed as a superset of C Programming Language, and nowadays nobody builds a [compiler](https://en.m.wikipedia.org/wiki/Compiler) specific for only C. So a compiler for C can also compile C++ programs
 
 ### If You're New To C Programming or want to start learning C Programming , i recommend reading our article, [Baby Steps in C Programming](https://palash.tk/Baby-Steps-In-C-Programming)
@@ -43,7 +43,7 @@ Developed by IIEC, CXXDroid is fully fledged C/C++ IDE for Android. It has quite
 CXXDroid From Play Store
 {: .crtx}
 
-If you want to learn and experiment with C/C++ , I recommend using CXXDroid.
+If you want to learn and experiment with C/C++ , I recommended using CXXDroid.
 
 #### Install From : [Play Store](https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid)
 
@@ -94,6 +94,6 @@ Or, you can use  [QuickEdit](https://play.google.com/store/apps/details?id=com.r
 
 If you're new to the world of programming and never used Command Line Applications I wouldn't recommend you to use Termux , use **CXXDroid** or **CppDroid** instead.
 
-So Friends That's It For Now, See You Next Time. Have and Questions , Suggestions? Let me know the comments below 👇
+So Friends That's It For Now, See You Next Time. Have any Questions , Suggestions? Let me know the comments below 👇
 
 If you like my writing and articles , consider [Buying Me a Coffee](https://buymeacoff.ee/palash) ☕
