@@ -10,11 +10,11 @@ author: bauripalash
 
 # How to Start Photography With Android
 
-Capturing your surroundings within lens is an exciting job, but not everyone has bundles of money to buy a professional camera. But a piece of paper can't stop us from achieving our dreams. 
+Capturing your surroundings within the lens is an exciting job, but not everyone has bundles of money to buy a professional camera. But a piece of paper can't stop us from achieving our dreams. 
 
-If you always wanted to take some amazing shots but couldn't because of money don't worry my friend, if you have a Android Phone 📱 which has a camera, you can still capture professional looking shots.
+If you always wanted to take some amazing shots but couldn't because of money, don't worry, my friend, if you have an Android Phone 📱 which has a camera, you can still capture professional-looking shots.
 
-> Always Remember , Good Quality Photo doesn't fully depend on Megapixels , but on the skills of photographer
+> Always Remember, Good Quality Photo doesn't fully depend on Megapixels, but on the skills of photographer
 
 So Let's Look into some good Camera 📷 apps,
 
@@ -25,7 +25,7 @@ Thinking of Camera App first name came to mind is,
 
 ### Camera FV-5 :
 
-If you want manual control , this app is for you. It emulates various DSLR features. That includes manual shutter speed, ISO, light metering, focus, white balance, and more. However, it does a good job of not feeling bloated. You can pick it up for free or go pro for $3.95.
+If you want manual control, this app is for you. It emulates various DSLR features. That includes manual shutter speed, ISO, light metering, focus, white balance, and more. However, it does a good job of not feeling bloated. You can pick it up for free or go pro for $3.95.
 
 <iframe width="360" height="400" src="https://www.youtube.com/embed/RvBJfPYlrm0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -33,7 +33,7 @@ If you want manual control , this app is for you. It emulates various DSLR featu
 
 ### Camera MX :
 
-This is the camera app I use most.  It's one of the oldest and most popular camera apps available for Android. It's easy to use but much more powerful than any other camera apps. There is even a GIF mode to make your own GIFs. The built-in photo editor can do the basics as well. It's decent all-in-one solution. Though if you're into serious photography , I'll recommend other solutions.
+This is the camera app I use most.  It's one of the oldest and most popular camera apps available for Android. It's easy to use but much more powerful than any other camera apps. There is even a GIF mode to make your own GIFs. The built-in photo editor can do the basics, as well. It's a decent all-in-one solution. Though if you're into serious photography, I'll recommend other solutions.
 
 <iframe width="360" height="400" src="https://www.youtube.com/embed/arbcdhsAM1I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -42,7 +42,7 @@ This is the camera app I use most.  It's one of the oldest and most popular came
 
 ### Camera Zoom FX
 
-Camera Zoom FX is another one of the older camera apps for android. It's kind of mix of simple and serious. It has controls for things like ISO, shutter speed, exposure, and more. There are also filters, HDR mode, various photo modes, and more. There are also a few plugins that add even more features.
+Camera Zoom FX is another one of the older camera apps for android. It's kind of a mix of simple and serious. It has controls for things like ISO, shutter speed, exposure, and more. There are also filters, HDR mode, various photo modes, and more. There are also a few plugins that add even more features.
 
 It does have more features than most manual camera apps. You can try it for free before paying $3.49 for the pro version.
 
@@ -52,11 +52,11 @@ It does have more features than most manual camera apps. You can try it for free
 
 ## Editor : 
 
-If you want to step in professional photography , you will need some photo editing apps. You're not limited to below mentioned options, you should try more photo editor and choose which one you like most
+If you want to step in professional photography, you will need some photo editing apps. You're not limited to below-mentioned options. You should try more photo editor and choose which one you like most
 
 ### Snapseed
 
-Currently Developed by  Google (Google bought it few years ago) , it's my strong recommendation if you're starting photography, it has plenty of cool tools. Image can be tuned using a variety of sliders and one-touch enhance tools. There are also some filters as well.
+Currently Developed by  Google (Google bought it few years ago), it's my strong recommendation if you're starting photography, it has plenty of cool tools. Image can be tuned using a variety of sliders and one-touch enhance tools. There are also some filters as well.
 
 ![Snapseed](https://lh3.googleusercontent.com/ISM98BHSQ83ovVJRtZJZyRZoWRKV_kxiAtc-OV5MAgxnSNlV5CkRFVXQvctnRyvTjPk=w774-h440-rw)
 
@@ -64,7 +64,7 @@ Currently Developed by  Google (Google bought it few years ago) , it's my strong
 
 ### Adobe's Photo Editors
 
-Adobe has released a plenty of editing tools over the last couple of years.  Some of the options include Adobe Photoshop Express, Adobe Photoshop Mix, and Adobe Lightroom. Each one has a variety of features to help you do things. 
+Adobe has released plenty of editing tools over the last couple of years.  Some of the options include Adobe Photoshop Express, Adobe Photoshop Mix, and Adobe Lightroom. Each one has a variety of features to help you do things. 
 
 The only potential caveat is that some of them require an Adobe Creative Cloud subscription in order to use all of the features.
 
@@ -75,7 +75,7 @@ The only potential caveat is that some of them require an Adobe Creative Cloud s
 
 ### Pixlr
 
-I tried Pixlr few months ago and some of my friends who used this , recommend me to include it.
+I tried Pixlr a few months ago and some of my friends who used this, recommend me to include it.
 
 Pixlr is developed by AutoDesk. It has one of the best one-touch enhance tools.
 
@@ -83,7 +83,7 @@ Pixlr is developed by AutoDesk. It has one of the best one-touch enhance tools.
 
 [Install it From Play Store](https://play.google.com/store/apps/details?id=com.pixlr.express)
 
-> Remember You're Not limited only to the above mentioned solutions, you should use which you feel comfortable with.
+> Remember You're Not limited only to the above-mentioned solutions, you should use which you feel comfortable with.
 
 ---
 
@@ -91,7 +91,7 @@ Pixlr is developed by AutoDesk. It has one of the best one-touch enhance tools.
 
 ---
 Thank You for Reading!
-That's It For Now, See you Next Time
+That's It For Now. See you Next Time.
 
 Let Me Know Your Suggestions, Questions in the Comments Below 👇
 
