@@ -9,7 +9,7 @@ author: bauripalash
 ---
 
 
-Hacking, the word is floating around in  air from last few years. In last few years , illegal hacking is in rise. But You've to understand Hacking is not always Illegal or Hackers are not always Criminals. You and I also are Hackers.
+Hacking, the word is floating around in air from the last few years. In the last few years, illegal Hacking is in rise. But You've to understand Hacking is not always Illegal, or Hackers are not always Criminals. You and I also are Hackers.
 
 ![Hacker Face](https://fsgh.palash.tk/imgs/hacker-mask-laptop.png)
 
@@ -38,7 +38,7 @@ _Now What Let It Fly. . ._
 
 You Might Not Believe Me , But You just **Hacked**
 
-Wow! That's Weird I know , but you've to believe me , you just **Hacked**.
+Wow! That's Weird I know, but you've to, believe me, you just **Hacked**.
 
 ![Mind Blown](https://media1.tenor.com/images/3d124f67efd8e08b6fd3f0e748255a95/tenor.gif?itemid=4421172)
 
@@ -46,26 +46,26 @@ Wow! That's Weird I know , but you've to believe me , you just **Hacked**.
 
 #### Let's Look Into The *Definition* of Hacking,
 
-> Computer Hacker : A [computer](https://en.m.wikipedia.org/wiki/Computer) hacker is any skilled computer expert that uses their technical knowledge to overcome a problem. While "hacker" can refer to any skilled computer [programmer](#)
+> Computer Hacker: A [computer](https://en.m.wikipedia.org/wiki/Computer) hacker is any skilled computer expert that uses their technical knowledge to overcome a problem. While "hacker" can refer to any skilled computer [programmer](#)
 
-**In my words, A Hacker is a person who studies a system , understand how it works and modify it to work such works that it was not meant for.**
+**In my words, A Hacker is a person who studies a system, understand how it works and modify it to work such works that it was not meant for.**
 
 ## So, How You Are a Hacker?
 
-**When you built the above mentioned paper airplane, you also became a hacker.**
+**When you built the above-mentioned paper airplane, you also became a hacker.**
 
-Because, the paper/newspaper you used to build the airplane was not meant to be used as a paper airplane it was created with a purpose of writing & reading but you *Hacked* it.
+Because the paper/newspaper you used to build the airplane was not meant to be used as a paper airplane, it was created with a purpose of writing & reading, but you *Hacked* it.
 
-So Now , You've Became a Hacker but not a Criminal. 
-
----
-
-In our daily life we often do such things which makes us hacker but we've to understand every hacker is not criminal. 
-
-If all Hackers were criminal , you would be in jail now because **You Are Also a Hacker**
+So now, You've Became a Hacker but not a Criminal. 
 
 ---
 
-Thank You For Now, Share It With Your Friends and Let Them Know Who They are. 
+In our daily life, we often do such things which makes us hacker, but we've to understand every hacker is not criminal. 
+
+If all Hackers were criminal, you would be in jail now because **You Are Also a Hacker**
+
+---
+
+Thank You, For Now, Share It With Your Friends and Let Them Know Who They are. 
 
 If you've anything to say let me know in the comments below 👇
