@@ -7,17 +7,17 @@ class: post-template
 author: bauripalash
 ---
 
-West Bengal Board (India) Madhyamik Results of 2018 has been declared. Results always brings happiness 😀 for few and sadness & _heartbreak_ 😭 for few.
+The West Bengal Madhyamik Result 2018 has been declared. Results bring happiness 😀 for a few but sadness & _heartbreak_ 😭 for others.
 
 ![Sad](https://media1.tenor.com/images/44396a8da3c65f507608a970581fbc94/tenor.gif?itemid=3518791)
 
-Today At 9 O'clock in morning , when the result was declared News Channels as always , were eager to get comments of Students Who are in Merit List.
+Today, at 9' in the morning, the result was shown in News Channels, also showing comments from students who are in the Merit List.
 
-All of the students were asked about their life style during pre-examination time, how they studied and their target after now.
+All of the students were asked about their life style pre-examination, how they studied, and what their target is for the future.
 
-I found something interesting in their question.
-**Most of the students wanted to be a _Doctor_** 
+I found something interesting in their answers.
+**Most of the students wanted to be _Doctors_** 
 
-I'm not saying that that's bad but I'm surprised that nobody said that they want to do something for our country or people who need help.
+I'm not saying that it's bad, but I'm surprised that nobody wanted to do something for our country or for people who need help.
 
-That's Really Sad! 😯
+It's Really Sad! 😯
