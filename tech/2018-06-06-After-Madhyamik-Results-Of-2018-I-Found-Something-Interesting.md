@@ -7,17 +7,16 @@ class: post-template
 author: bauripalash
 ---
 
-West Bengal Board (India) Madhyamik Results of 2018 has been declared. Results always brings happiness 😀 for few and sadness & _heartbreak_ 😭 for few.
+The results for the West Bengal Board (India) Madhyamik 2018 have been published. As always, those results bring happiness 😀 to some, and sadness & _heartbreak_ 😭 for others.
 
 ![Sad](https://media1.tenor.com/images/44396a8da3c65f507608a970581fbc94/tenor.gif?itemid=3518791)
 
-Today At 9 O'clock in morning , when the result was declared News Channels as always , were eager to get comments of Students Who are in Merit List.
+When the results were declared on the news channels this morning at 9 o'clock, I was eager to hear from those students that managed to make the list.
+All of them were asked about their life-style during pre-examination time, how they studied and what their future plan were after now.
 
-All of the students were asked about their life style during pre-examination time, how they studied and their target after now.
-
-I found something interesting in their question.
+There was however something very peculiar about their answer:
 **Most of the students wanted to be a _Doctor_** 
 
-I'm not saying that that's bad but I'm surprised that nobody said that they want to do something for our country or people who need help.
+I'm not saying that that's bad but I am somewhat surprised that nobody said that they want to do something for our country or people who need help.
 
-That's Really Sad! 😯
+That's really sad! 😯
