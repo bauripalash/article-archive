@@ -61,39 +61,39 @@ Developed by Anton Smirnov, CppDroid is a quite famous and well known C/C++  IDE
 CppDroid from Play Store
 {: .crtx}
 
-If you want a full C/C++ Development workspace , I recommend using CppDroid. 
-But right Now there's one down point about it, It's not been updated in Play Store since 17 August,2017
+If you want a full C/C++ Development workspace, I recommend using CppDroid. 
+But right Now there's one down point about it, It's not been updated in Play Store since 17 August 2017
 
 #### Install it From : [Play Store](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.cppdroid)
 Visit Their Official Website : <https://www.cppdroid.info>
 
 ## #3 Termux
 
-Termux, the all-in-one solution which was also mentioned on our previous article , [Python For Android - Run Python Programs in Android](https://palash.tk/Python-For-Android-Run-Python-Programs-In-Android)
+Termux, the all-in-one solution which was also mentioned on our previous article, [Python For Android - Run Python Programs in Android](https://palash.tk/Python-For-Android-Run-Python-Programs-In-Android)
 
-As also mentioned in previous article, it's a terminal emulator for Android which means with help of it we can run any linux (almost any 😉) programs on Android.
+As also mentioned in the previous article, it's a terminal emulator for Android, which means with the help of it, we can run any Linux (almost any 😉) programs on Android.
 
 ![editing C scripts in vim](https://termux.com/files/vim-main_framed.png)
 
 termux.com
 {: .crtx}
 
-To Install and Use C/C++ compiler in Termux (in Termux clang is the C/C++ compiler) , 
+To Install and Use C/C++ compiler in Termux (in Termux clang is the C/C++ compiler), 
 
 1. Download & Install Termux from :  [Play Store](https://play.google.com/store/apps/details?id=com.termux)
-2. After Installing execute this command `pkg install clang`
+2. After Installing, execute this command `pkg install clang`
 3. After Successfully installing `clang`  you can compile C/C++ scripts.
 
  Example :
 `clang hello.c`
-After you'll get an executable `a.out` which you can run using `~$./a.out`
+After you'll get an executable `a.out` which you can run using `~$./a.out.`
 
-> To edit and create C/C++ Scripts you can use [**VIM**](https://en.m.wikipedia.org/wiki/Vim_(text_editor)) inside termux which can be installed with `pkg install vim`
+> To edit and create C/C++ Scripts, you can use [**VIM**](https://en.m.wikipedia.org/wiki/Vim_(text_editor)) inside termux which can be installed with `pkg install vim.`
 Or, you can use  [QuickEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit) 
 
 
-If you're new to the world of programming and never used Command Line Applications I wouldn't recommend you to use Termux , use **CXXDroid** or **CppDroid** instead.
+If you're new to the world of programming and never used Command-Line Applications, I wouldn't recommend you to use Termux, use **CXXDroid** or **CppDroid** instead.
 
-So Friends That's It For Now, See You Next Time. Have and Questions , Suggestions? Let me know the comments below 👇
+So, Friends, That's It For Now, See You Next Time. Have and Questions Suggestions? Let me know the comments below. 👇
 
-If you like my writing and articles , consider [Buying Me a Coffee](https://buymeacoff.ee/palash) ☕
+If you like my writing and articles, consider [Buying Me a Coffee](https://buymeacoff.ee/palash) ☕
