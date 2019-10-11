@@ -8,13 +8,13 @@ author: bauripalash
 ---
 
 
-If you're a Android Phone User there's 99% probability that you've heard about **Android Launchers** , if you haven't,
+If you are an Android Phone User, there is 99% chance that you've heard about **Android Launchers** , if you haven't,
 
-> Android launchers are apps that can spice up your phone's home screen or act as a personal assistant. They help you to customize your android phone
+> Android Launchers are apps that can spice up your phone's home screen or act as a personal assistant. They help you to customize your android phone.
 
-Android Launchers are usually used by people who don't want to be limited by system provided **User Interface**
+Android Launchers are usually used by people who don't want to be limited by the system provided **User Interface**.
 
-Today We'll Take a Look at two of my favourite **Free & Open Source**  Android Launcher.
+Today we will take a look at two of my favourite **Free & Open Source**  Android Launcher.
 
 Let's Start...
 
@@ -23,18 +23,18 @@ Let's Start...
 
 <img src="https://f-droid.org/repo/icons-640/ch.deletescape.lawnchair.plah.1878.png" >
 
-It's a Open Source Android Launcher, available on Play Store as well as F-Droid.
+It's an open source Android Launcher, available on Play Store as well as F-Droid.
 
 ![](https://fsgh.palash.tk/imgs/lc-home-main.jpg)
 
-It's Customisable , Fast, Lightweight , Easy To Use.
+It's customisable, fast, lightweight, easy to use.
 
 
-There's plenty of Customizing Settings available.
+There are plenty of customizing settings available.
 
 ![settings](https://fsgh.palash.tk/imgs/lawnchair-setting.jpg)
 
-> My Favourite Feature is Changing Between Dark, Light or Black Mode.
+> My favorite feature is changing between Dark, Light or Black mode.
 
 Vist Official Website : <https://lawnchair.info>
 
@@ -43,19 +43,19 @@ Vist Official Website : <https://lawnchair.info>
 
 ![](https://f-droid.org/repo/icons-640/fr.neamar.kiss.133.png)
 
-It's also a Awesome, Fast, Customizable , Super Lightweight (app size in KBs)
+It's also an awesome, fast, customizable, super lightweight (app size in KBs)
 
 
 ![kiss Launcher](https://fsgh.palash.tk/imgs/kiss-l-home.jpg)
 
-One thing i like most about it is it's speed and minimalist design.
+One thing which I like most about it, is its speed and minimalist design.
 
 
-I'm not telling you to use them , but i recommend you to try them once.
+I'm not telling you to use them, but I recommend you to try them once.
 
-Now It depends on what you wants, whether it might be minimalist design or lightweight design or feature rich style.
+Now it depends on what you want, whether it might be minimalist design or lightweight design or feature-rich style.
 
 
-You'll heard people talking about Nova Launcher or Apex Launcher, I'm not saying that they are bad, but they are feature rich and they drain too much battery.
+You'll hear people talking about Nova Launcher or Apex Launcher, I'm not saying that they are bad, but they are feature-rich and they drain too much battery.
 
 So Next Time Choosing Launcher Choose Carefully. 😉
