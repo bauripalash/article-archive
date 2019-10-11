@@ -10,7 +10,7 @@ author: bauripalash
 
 # How To Start Web Development On Android
 
-Web Development is a trending Career Path with great amount of job opportunities. Most Of People Thinks With a Computer it's impossible to do web development. Today will find out how we can start web development on your Android Phone.
+Web Development is a trending Career Path with great amount of job opportunities. Most Of People Think With a Computer it's impossible to do web development. Today we will find out how we can start web development on your Android Phone.
 
 > Android is based on Linux Kernel so it's definitely possible to do almost anything which we could do in a Linux Computer.
 
@@ -56,9 +56,9 @@ You can also learn Other languages with Py
 
 ## Part 1 (A) : Coding
 
-If you already know or just learnt web programming languages such as JavaScript and Markup languages such as HTML , you can start coding amazing websites , web apps now.
+If you already know or just learnt web programming languages such as JavaScript and Markup languages such as HTML, you can start coding amazing websites, web apps now.
 
-Here Are some best Code Editors for Android,
+Here Are some best Code Editors for Android:
 
 ### • AIDE Web
 
@@ -83,7 +83,7 @@ _It's my favourite editor for android_
 
 ### • DroidEdit
 
-It's a lightweight buy powerful code editor for Android , it supports plenty of programming languages , it also supports opening files directly from Dropbox.
+It's a lightweight buy powerful code editor for Android, it supports plenty of programming languages, it also supports opening files directly from Dropbox.
 
 You can also preview the HTML in browser.
 
@@ -98,9 +98,9 @@ You can also preview the HTML in browser.
 
 It's the most popular Non-Coding website builder on play store. Used by millions
 
-At first it might look messy but if you enough time with it , it would br easy to understand.
+At first it might look messy but if you enough time with it, it would br easy to understand.
 
-The thing I didn't like about this is , it's UI , it looks old and messy , if using a tablet or a phone with large screen it's bearable but if using phone with smaller screen , sometimes it becomes headache.
+The thing I didn't like about this is, it's UI, it looks old and messy, if using a tablet or a phone with large screen it's bearable but if using phone with smaller screen, sometimes it becomes headache.
 
 _But You Should Give it a try_
 
@@ -117,7 +117,7 @@ It's good for creating Portfolios , Startup Website , Product Page etc.
 [Install it From Play Store](https://play.google.com/store/apps/details?id=com.mobirise.mobirise)
 
 
-> If you've completed building your webpage you might want to show it to the world , just take a look at  below
+> If you've completed building your webpage you might want to show it to the world, just take a look at  below
 
 ## Part 2 : Serving From and Testing on Phone
 
@@ -131,9 +131,9 @@ It's one of the widely used web server for Android available out there. It has p
 
 It's quite lightweight and easy to use
 
-[Install it From Play Storr](https://play.google.com/store/apps/details?id=de.fun2code.android.pawserver)
+[Install it From Play Store](https://play.google.com/store/apps/details?id=de.fun2code.android.pawserver)
 
-*Got Problem With Setting Up Paw Server, Follow this* [*Guide*](https://www.makeuseof.com/tag/turn-android-device-web-server/)
+*Got Problem With Setting Up Raw Server, Follow this* [*Guide*](https://www.makeuseof.com/tag/turn-android-device-web-server/)
 
 ### • [Esminis.com](https://esminis.com)
 
