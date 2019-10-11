@@ -14,18 +14,18 @@ A brave dog whom we all know for her great adventure becoming one of the first a
 
 ![Laika](https://upload.wikimedia.org/wikipedia/en/7/71/Laika_%28Soviet_dog%29.jpg  "Laika")
 
-The story begins in 1957, after the success of Sputnik 1 in October 1957, Soviet leaders wanted a spacecraft to be launched on November, Engineers were already working on a more sophisticated spacecraft but it needed more time to be completed. The Soviet Leder Nikita Khrushchev wanted his engineers to deliver a craft which would repeat the triumph of Sputnik 1 stunning the world with Soviet power.
+The story begins in 1957, after the success of Sputnik 1 on October 1957, Soviet leaders wanted a spacecraft to be launched in November, Engineers were already working on a more sophisticated spacecraft but it needed more time to be completed. The Soviet Leder Nikita Khrushchev wanted his engineers to deliver a craft that would repeat the triumph of Sputnik 1 stunning the world with Soviet power.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Posta_Romana_-_1959_-_Laika_120_B.jpg/640px-Posta_Romana_-_1959_-_Laika_120_B.jpg)
 
-Some Sources say that official decision to launch Sputnik 2 was made on 10 or 12 October that means engineers had to rush and complete the craft in less than four weeks. The primary mission of Sputnik 2 was to send a living passenger to space, Engineers chose dogs as the passengers of Sputnik 2. So the hunt for perfect dogs began.
+Some sources say that the official decision to launch Sputnik 2 was made on 10 or 12 October that means engineers had to rush and complete the craft in less than four weeks. The primary mission of Sputnik 2 was to send a living passenger to space, Engineers chose dogs as the passengers of Sputnik 2. So the hunt for perfect dogs began.
 
 One day, a young stary was wandering around the streets of Moscow, Soviet scientists picked up the dog from the street and brought her to their headquarters, It was Laika, a three years old street dog. Scientists chose to use Moscow strays because they assumed that such animals had already learned to endure conditions of extreme cold and hunger.
 
 ## Training Begins,
 
-To adapt the confines of tiny cabin of Sputnik 2, she with other three dogs who were also in training were kept in tiny cages for periods of time up to about 20 days, which made them restless even Laxatives did not improve their condition.
-Laika with her companions was placed in centrifuges that simulate the acceleration of a rocket launch and were placed in machines which generate noises to mimic the noises of spacecraft.
+To adapt the confines of the tiny cabin of Sputnik 2, she with the other three dogs who were also in training were kept in tiny cages for periods of time up to about 20 days, which made them restless even Laxatives did not improve their condition.
+Laika with her companions was placed in centrifuges that simulate the acceleration of a rocket launch and were placed in machines that generate noises to mimic the noises of spacecraft.
 The dogs were trained to eat a special high nutrition gel that would be their food in space.
 These exercises had bad effects on their health, their pulses go doubled, blood pressure increased so much and much more.
 
@@ -47,7 +47,7 @@ Before Final liftoff and before closing the hatch, the technicians kisses Laika 
 ## After Launch,
 As soon as the early acceleration started Laika heart rate started increasing, after reaching the orbit a part of Sputnik 2 did not separate as planned which prevented the thermal control systems to operate correctly, the temperature of cabin started raising . . .
 
-After several hours no sign of life was received by Soviet Scientists, for many years reason of her death was kept hidden but In October 2002, Dimitri Malashenkov, one of the scientists behind the Sputnik 2 mission, revealed that Laika had died by the fourth circuit of flight from overheating.
+After several hours no sign of life was received by Soviet Scientists, for many years reason for her death was kept hidden but In October 2002, Dimitri Malashenkov, one of the scientists behind the Sputnik 2 mission, revealed that Laika had died by the fourth circuit of flight from overheating.
 
 Over five months later, after 2,570 orbits, Sputnik 2—including Laika's remains—disintegrated during re-entry on 14 April 1958.
 

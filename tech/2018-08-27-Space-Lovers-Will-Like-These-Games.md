@@ -10,13 +10,13 @@ author: bauripalash
 
 #  If You're A Space Lover You'll Like These Games
 
-Space is full of Mystery , when we look at the night we see millions of stars. I know many of you want to visit space but that's upon your dedication and a little of fate. But in meanwhile we can enjoy the space with these games.
+Space is full of Mystery, when we look at the night we see millions of stars. I know many of you want to visit space but that's upon your dedication and a little of fate. But in meanwhile we can enjoy the space with these games.
 
-Humans are born curious, we want to see things with our own eye, touch with our own hands , hear with our own ears. Space is a place where humans couldn't dominate by now so many of us do fascinate about space, stars , planets... But visiting space isn't a child's play, it requires so much money , time and even skills.
+Humans are born curious, we want to see things with our own eye, touch with our own hands, hear with our own ears. Space is a place where humans couldn't dominate by now so many of us do fascinate about space, stars, planets... But visiting space isn't a child's play, it requires so much money, time and even skills.
 
 ![from Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/THAICOM_8_first-stage_landing_%2827421461715%29.jpg/800px-THAICOM_8_first-stage_landing_%2827421461715%29.jpg)
 
-But I found a way to quench your thirst of space adventure, some awesome people have developed some games which can give us a little pleasure of space adventure (It's better to have something rather than having nothing 😉). If you have an Android device , you can enjoy all the games for free and have a little space adventure (kind of).
+But I found a way to quench your thirst of space adventure, some awesome people have developed some games which can give us a little pleasure of space adventure (It's better to have something rather than having nothing 😉). If you have an Android device, you can enjoy all the games for free and have a little space adventure (kind of).
 
 So without further talking let's start...
 
@@ -24,9 +24,9 @@ So without further talking let's start...
 
 It's a game about adventure and crafting. You can build your own rockets and explore the space. 
 
-Anything you see there can be visited , there are no limits , if you want you can even land on sun!
+Anything you see there can be visited, there are no limits if you want you can even land on the sun!
 
-With this , you get your own **pocket universe** , just build and let fly!
+With this, you get your own **pocket universe **, just build and let fly!
 
 Here See My Messy Gameplay (Ah! I'm not an Expert)
 
@@ -40,18 +40,18 @@ Here See My Messy Gameplay (Ah! I'm not an Expert)
 
 ## • Space Frontier & Space Frontier 2
 
-Usually I don't spend too much time on playing games, but these two games specially **Space Frontier** is just awesome that I can't even resist not to play too much.
+Usually, I don't spend too much time on playing games, but these two games especially **Space Frontier** is just awesome that I can't even resist not to play too much.
 
-When Playing this game, my reaction is kinda like , "Yeah, I'm Elon Musk, Ha Ha , I'm colonizing Mars, Ha Ha , Look At Me " 😂😂
+When playing this game, my reaction is kinda like, "Yeah, I'm Elon Musk, Ha Ha, I'm colonizing Mars, Ha Ha, Look At Me " 😂😂
 
 
 
 <iframe width="360" height="400" src="https://www.youtube.com/embed/3BNY8JZha_s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> I personally like Space Frontier more than More than Space Frontier 2
+> I personally like Space Frontier more than Space Frontier 2
 
 
-> I found this game to help my coordination between eyes and fingers to synchronise properly, I'll recommend Everyone to try this game once
+> I found this game to help my coordination between eyes and fingers to synchronize properly, I'll recommend everyone to try this game once
 
 [Download **Space Frontier** From Play Store](https://play.google.com/store/apps/details?id=com.ketchapp.spacefrontier)
 
@@ -60,11 +60,11 @@ When Playing this game, my reaction is kinda like , "Yeah, I'm Elon Musk, Ha Ha 
 
 ## • Space Agency
 
-This is a free and easy to run your own Virtual space program. You can build rockets, launch them, build space station , launch satellites and also explore the solar system.
+This is free and easy to run your own Virtual space program. You can build rockets, launch them, build a space stations, launch satellites and also explore the solar system.
 
-Though it Might be complex and challenging for some but still it's very enjoyable game.
+Though it might be complex and challenging for some still it's a very enjoyable game.
 
-I played this game for few weeks and really liked it. You should give it a try.
+I played this game for a few weeks and really liked it. You should give it a try.
 
 
 <iframe width="360" height="400" src="https://www.youtube.com/embed/V6lzIS5WArg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -78,6 +78,6 @@ So Guys here are some games related to space adventure, I hope you'll like them 
 
 ---
 
-That's it for now friends , see you next time. Till then let me know your thoughts, suggestions and questions in the comments below 👇
+That's it, for now, friends, see you next time. Till then let me know your thoughts, suggestions, and questions in the comments below 👇
 
 If you like my work consider [Donating a Little 🌱](https://palash.tk/donate)

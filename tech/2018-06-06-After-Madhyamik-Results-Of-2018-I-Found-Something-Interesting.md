@@ -12,7 +12,7 @@ The results for the West Bengal Board (India) Madhyamik 2018 have been published
 ![Sad](https://media1.tenor.com/images/44396a8da3c65f507608a970581fbc94/tenor.gif?itemid=3518791)
 
 When the results were declared on the news channels this morning at 9 o'clock, I was eager to hear from those students that managed to make the list.
-All of them were asked about their life-style during pre-examination time, how they studied and what their future plan were after now.
+All of them were asked about their lifestyle during the pre-examination time, how they studied and what their future plan was after now.
 
 There was however something very peculiar about their answer:
 **Most of the students wanted to be a _Doctor_** 
