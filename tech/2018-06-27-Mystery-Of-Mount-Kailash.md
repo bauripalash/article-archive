@@ -69,7 +69,7 @@ According to [Ramayana](https://en.m.wikipedia.org/wiki/Ramayana), [Ravana](http
 
 ---
 
-There are many stories about Mount Kailash and till date nobody successfully climbed up to the top of Mount Kailash. Some People Claim it's secret base of aliens , but they're unable to show any proof. We hope in near future we'll be able to solve the mystery of Mount Kailash.
+There are many stories about Mount Kailash and till date nobody successfully climbed up to the top of Mount Kailash. Some People Claim it's secret base of aliens, but they're unable to show any proof. We hope in near future we'll be able to solve the mystery of Mount Kailash.
 
 If you have any information about Mount Kailash or found any mistakes, please let me know in comments bellow 👇.
 

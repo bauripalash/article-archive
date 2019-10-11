@@ -41,7 +41,7 @@ You can also use Chrome or Other Web Browser to get Punycode, just do this.
 
 At the address bar of web browser, type your emoji then **.abc**  , without any space
 
-> **.abc** is not mandatory i just put it for example you can use any other TLDs such as **.com** , **.xyz** etc.
+> **.abc** is not mandatory I just put it for example you can use any other TLDs such as **.com** , **.xyz** etc.
 
 Then Your Browser will automatically convert the emoji to Punycode,
 

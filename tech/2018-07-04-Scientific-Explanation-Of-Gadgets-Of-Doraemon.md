@@ -68,7 +68,7 @@ Scientists might have gone further in folded space time model and might have fou
 
 #### My Theory:
 
-As mentioned in anime and manga it is run by battery and lasts upto 8 hours which charges itself when not being used and can carry almost any weight of person. So, we can understand two things from it, firstly, it has a powerful battery and mechanism to self charge itself. Secondly , it has such powerful motors or such technologies which can generate enough thrust to lift person from ground.
+As mentioned in anime and manga it is run by battery and lasts upto 8 hours which charges itself when not being used and can carry almost any weight of person. So, we can understand two things from it, firstly, it has a powerful battery and mechanism to self charge itself. Secondly, it has such powerful motors or such technologies which can generate enough thrust to lift person from ground.
 
 All gadgets mentioned above has no mention about battery or any power sources , ao that means they use same battery as it is used in bamboo copters, which can even self charge them. In present time we are seeing such Innovation like used in bamboo copters which are so powerful, that means in future Scientist successfully invented batteries which are powerful enough and also lightweight.
 

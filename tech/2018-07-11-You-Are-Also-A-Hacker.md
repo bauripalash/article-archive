@@ -13,7 +13,7 @@ Hacking, the word is floating around in  air from last few years. In last few ye
 
 ![Hacker Face](https://fsgh.palash.tk/imgs/hacker-mask-laptop.png)
 
-Most of people in developing countries like India thinks Hacking is Always Illegal and Hackers Are always Criminals, in my personal experience I got many requests from my friends and family members to hack someone's Facebook Account, Someone's Instagram account and so on. I became tired telling the difference between an [Ethical Hacker/White Hat Hacker](https://en.m.wikipedia.org/wiki/White_hat_(computer_security)) and a [Black Hat Hacker](https://en.m.wikipedia.org/wiki/Black_hat). 
+Most of people in developing countries like India thinks Hacking is Always Illegal and Hackers are always Criminals, in my personal experience I got many requests from my friends and family members to hack someone's Facebook Account, Someone's Instagram account and so on. I became tired telling the difference between an [Ethical Hacker/White Hat Hacker](https://en.m.wikipedia.org/wiki/White_hat_(computer_security)) and a [Black Hat Hacker](https://en.m.wikipedia.org/wiki/Black_hat). 
 
 
 > When I tell people I'm an Ethical Hacker, they say _"What's The Difference , Hackers are Always Bad Guys"_

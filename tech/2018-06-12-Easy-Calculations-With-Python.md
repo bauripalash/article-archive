@@ -40,7 +40,7 @@ If you're using  [Repl.It](https://repl.it/languages/python3), on the right pan 
 `>`
 
 _If nothing wrong happened, goto the next chapter.
-If you find any problems please comment below the article, I'll surely help you_
+If you find any problems please comment below the article, I'll surely help you!
 
 ## Simple Calculations With Python 👀
 

@@ -36,12 +36,12 @@ Download App From : [Play Store](https://play.google.com/store/apps/details?id=o
 
 ## #2 PyDroid 3
 
-**PyDroid** is less known python IDE for Android and is also *My Favourite* . I like it because of it's simplicity , extra features that QPython fails to provide. With PyDroid you can even create GUIs, games and much more. PyDroid is developed by Russia bases IIEC
+**PyDroid** is less known python IDE for Android and is also *My Favourite* . I like it because of it's simplicity, extra features that QPython fails to provide. With PyDroid you can even create GUIs, games and much more. PyDroid is developed by Russia bases IIEC.
 
 ![PyDroid 3 - Screenshot](https://fsgh.palash.tk/imgs/pyd.jpg)
 
-It's specially designed for educational purposes. Most of popular Machine Learning and Data Science python libraries are available, making it ideal for  testing and experimenting *On-The-Go*
-> Try It Yourself , You'll Love it.
+It's specially designed for educational purposes. Most of popular Machine Learning and Data Science python libraries are available, making it ideal for testing and experimenting *On-The-Go*
+> Try It Yourself, You'll Love it.
 
 Download From : [Play Store](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 
@@ -77,10 +77,10 @@ Visit Their Official Website : <https://termux.com>
 
 ---
 
-So That's It For Now, There're other IDEs and Methods available , but I mentioned only 3 which i tried personally.
+So That's it for now, there're other IDEs and Methods available , but I mentioned only 3 which I tried personally.
 
 I recommend trying all three and deciding which one you like most. 
 
-Thanks For Reading, Let Me Know Your Thoughts in The comments bellow 👇
+Thanks For Reading, Let Me Know Your Thoughts in The comments below 👇
 
 Subscribe Below To Get Notified about New Posts.
