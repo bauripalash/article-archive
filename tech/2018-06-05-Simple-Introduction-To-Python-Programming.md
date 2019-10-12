@@ -7,45 +7,43 @@ class: post-template
 author: bauripalash
 ---
 
-Python is a programming language that is **Easy to learn** ,  has **Clear Syntax**. I recommend every newcomer to learn Python first because,
+Python is a programming language that is **Easy to learn**, and has **Clear Syntax**. I recommend every newcomer to learn Python first because:
 
-- Easy to learn
-- Used by Major Tech Giants
-- Used in from Simple Desktop to NASA research centre.
-- Salary of Python Programmers is very high
+- It's easy to learn.
+- It's used by Major Tech Giants.
+- It's used in projects ranging from simple, to ultra-complex.
+- the salary of Python programmers is very high.
 
-Let's Learn Something without further talking,
+Let's learn some Python!
 
-##  Let's start with Traditional Hello World
+## Let's start with the Traditional "Hello World"
 
 
-**Hello World** is a traditional program that every programmer Writes at very first time when learning a new Programming Language, in python it's very simple:
+**Hello World** is typically the first programmer every programmer writes when learning a new language.
+It's very simple in Python.
 
-{% highlight python %}
-
+```python
 print("Hello World")
+```
 
-{% endhighlight %}
+At this moment you might be wondering; how can you write python programs yourself?
 
-
-In This Current Moment you might be wondering how can you write python programs yourself?
-
-Actually There're two ways to do it
+Actually there're two ways to do it.
 
 1. **Online, in a online interpreter**
-2. **Offline,  in your local computer**
+2. **Offline, in your local computer**
 
 ### 1. Write and Run Python Programs Online
 
-There're plenty of ways to write and run Python Programs online , but my recommendation is **repl.it**
+There're plenty of ways to write and run Python Programs online, but my recommendation is **repl.it**
 
-Step 1 : goto <https://repl.it/languages/python3>
+Step 1 : Go to <https://repl.it/languages/python3>
 
 Step 2 :  On the left side write python programs (eg. Hello World program above) , and click "Run >" 
 
-Step 3 :  Now On The console at right side you'll see output `Hello World`
+Step 3 :  Now on the console on the right side, you'll see the output `Hello World`
 
-You can also Signup there to save your programs for later use.
+You can also Sign-up to save your programs for later use.
 
 
 ### 2. Write and Run Python Programs On Your Local Computer
@@ -57,8 +55,8 @@ Step 2 : install and Read The Guide which explains how to install and use Python
 
 ----
 
-After You Run The **Hello World** Program,
-Welcome To The World Of Programming.
+After running the **Hello World** program, you can call yourself a programmer.
+Welcome to the World of Programming.
 
 ####  ❤ You're now a Python Programmer 😎
 
